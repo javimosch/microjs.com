@@ -8,6 +8,14 @@
 // See examples below.
 
 module.exports = [
+ {
+    name: "evtman",
+    github: "javimosch/evtman",
+    tags: ["event", "manager", "listeners", "evt"],
+    description: "Convert any object in a tiny custom event manager. And add support for dom events",
+    url: "https://github.com/javimosch/evtman",
+    source: "https://raw.githubusercontent.com/javimosch/evtman/master/dist/evtman.js"
+  },
   {
     name: "uniloc",
     github: "unicorn-standard/uniloc",
